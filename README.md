@@ -3,7 +3,7 @@ Programa con interfaz gráfica que permite generar laberintos aleatorios de N x 
 
 # Uso
 
-Ejecutar
+Ejecutar en consola
 
 ```bash
 pip3 install -r requirements.txt
